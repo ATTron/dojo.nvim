@@ -10,7 +10,7 @@
 {
   "ATTron/dojo.nvim",
   dependencies = {
-    "nvim-tree/nvim-web-devicons", -- optional, used for pretty icons
+    "nvim-tree/nvim-web-devicons", -- optional, used for icons
   },
   keys = {
     { "<leader>jj", "<cmd>Dojo<cr>", desc = "Open Dojo" },
